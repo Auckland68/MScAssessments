@@ -1,4 +1,4 @@
 # Projects
 Completed Assessment Notebooks
 
-Code and reports from completed assessments and individual projects
+This repository contains the code and reports from completed assessments and individual projects as part of the MSc Data Science & Analytics course
