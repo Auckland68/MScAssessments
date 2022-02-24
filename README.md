@@ -10,8 +10,8 @@ Other projects can be found under the other separate repositories
 * Powerpoint slides for the charity comparison report
 * Topic modelling using Latent Dirichlet Allocation on the DbPedia dataset - report
 * Code for the topic modelling report
-* Flight accidents visualisation report
+* Flight departures big data analysis report
 * Saratoga house prices report - code
-* ICAO Flight Accidents large dataset using Hadoop
-* ICAO Flight Accidents - report
+* ICAO Flight Accidents report
+* ICAO Flight Accidents code
 * Statistical analysis of Land Registry House Sales
