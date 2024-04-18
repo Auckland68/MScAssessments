@@ -1,7 +1,7 @@
 # Projects
 Completed Assessment Notebooks
 
-This repository contains the code and reports from completed assessments and individual projects as part completion of the Data Science course
+This repository contains the code and reports from completed assessments and individual projects as part completion of the Data Science MSc course. The management project is contained in a separate repository.
 
 Other projects can be found under the other separate repositories
 
