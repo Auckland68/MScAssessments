@@ -5,13 +5,27 @@ This repository contains the code and reports from completed assessments and ind
 
 Other projects can be found under the other separate repositories
 
-* A comparison of small and large charities (report examining data science techniques used by the BBC Children in Need Appeal and the Trussell Food Bank
-* A statistical case study using the Saratoga house price data to construct a multiple linear regression model using Statsmodels - report
-* Powerpoint slides for the charity comparison report
-* Topic modelling using Latent Dirichlet Allocation on the DbPedia dataset - report
-* Code for the topic modelling report (LDA, NMF, Gensim Python libararies)
-* Flight departures big data analysis report (Hive, Pig, Map Reduce)
-* Saratoga house prices report - code (Statsmodels)
-* ICAO Flight Accidents report 
-* ICAO Flight Accidents code (Data Visualisation with Matplotlib)
-* Statistical analysis of Land Registry House Sales
+A comparison of small and large charities (report examining data science techniques used by the BBC Children in Need Appeal and the Trussell Food Bank
+[Charity Comparison Report](https://github.com/Auckland68/MScAssessments/blob/main/A%20Comparison%20of%20Small%20and%20Large%20Charity%20Datasets.pdf)
+
+Powerpoint slides for the charity comparison report
+[Charity Comparison Presentation](https://github.com/Auckland68/MScAssessments/blob/main/Charity%20Report%20Powerpoint%20Slides.pdf)
+
+A statistical case study using the Saratoga house price data to construct a multiple linear regression model using Statsmodels
+[House Price Linear Model Report](https://github.com/Auckland68/MScAssessments/blob/main/CASE%20STUDY%20Saratoga%20House%20Prices%20Regression.pdf)
+[House Price Linear Model Jupyter Notebook](https://github.com/Auckland68/MScAssessments/blob/main/HousingPricesCaseStudy.ipynb)
+
+Statistical analysis of Land Registry House Sales - large dataset
+[Land Registery Jupyter Notebook](https://github.com/Auckland68/MScAssessments/blob/main/Land_Registry.ipynb)
+
+Topic modelling using Latent Dirichlet Allocation on the DbPedia dataset
+[DbPedia Topic Modelling Exposition](https://github.com/Auckland68/MScAssessments/blob/main/DbPedia%20Topic%20Modelling%20Exposition%20Report.pdf)
+[DbPedia Topic Modelling Jupyter Notebook[(https://github.com/Auckland68/MScAssessments/blob/main/Dbpedia_Dataset_Topic_Modelling.ipynb)
+
+Flight departures big data analysis (Cloudera, Hive, Pig, Map Reduce)
+[Flight Delay Report](https://github.com/Auckland68/MScAssessments/blob/main/Flight%20Data%20Report.pdf)
+
+ICAO Flight Accidents analysis
+[ICAO Flight Accident Visualisation Report](https://github.com/Auckland68/MScAssessments/blob/main/ICAO%20Flight%20Accident%20Data%20Report%20-%20Data%20Visualisation.pdf)
+[ICAO Flight Accidents code (Data Visualisation with Matplotlib)](https://github.com/Auckland68/MScAssessments/blob/main/ICAO%20Air%20Flight%20Accidents%20Data%202008%20to%202020%20Visualisation.ipynb)
+ 
