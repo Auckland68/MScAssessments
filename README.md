@@ -1,20 +1,18 @@
 # Projects
 Completed Assessment Notebooks
 
-This repository contains the code and reports from completed assessments and individual projects as part completion of the Data Science MSc course. The management project is contained in a separate repository.
+This repository contains the code and reports from completed assessments and individual projects as part completion of the Data Science MSc course. The management project is contained in a separate repository. Other projects can be found under the other separate repositories
 
-Other projects can be found under the other separate repositories
-
+## Inroduction to Data Science
 A comparison of small and large charities (report examining data science techniques used by the BBC Children in Need Appeal and the Trussell Food Bank
 [Charity Comparison Report](https://github.com/Auckland68/MScAssessments/blob/main/A%20Comparison%20of%20Small%20and%20Large%20Charity%20Datasets.pdf)
-
 Powerpoint slides for the charity comparison report
 [Charity Comparison Presentation](https://github.com/Auckland68/MScAssessments/blob/main/Charity%20Report%20Powerpoint%20Slides.pdf)
 
+# Data Analysis
 A statistical case study using the Saratoga house price data to construct a multiple linear regression model using Statsmodels
 [House Price Linear Model Report](https://github.com/Auckland68/MScAssessments/blob/main/CASE%20STUDY%20Saratoga%20House%20Prices%20Regression.pdf)
 [House Price Linear Model Jupyter Notebook](https://github.com/Auckland68/MScAssessments/blob/main/HousingPricesCaseStudy.ipynb)
-
 Statistical analysis of Land Registry House Sales - large dataset
 [Land Registery Jupyter Notebook](https://github.com/Auckland68/MScAssessments/blob/main/Land_Registry.ipynb)
 
