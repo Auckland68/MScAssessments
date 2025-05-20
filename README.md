@@ -34,7 +34,7 @@ Topic modelling using Latent Dirichlet Allocation on the DbPedia dataset
 
 [DbPedia Topic Modelling Exposition](https://github.com/Auckland68/MScAssessments/blob/main/DbPedia%20Topic%20Modelling%20Exposition%20Report.pdf)
 
-[DbPedia Topic Modelling Jupyter Notebook[(https://github.com/Auckland68/MScAssessments/blob/main/Dbpedia_Dataset_Topic_Modelling.ipynb)
+[DbPedia Topic Modelling Jupyter Notebook](https://github.com/Auckland68/MScAssessments/blob/main/Dbpedia_Dataset_Topic_Modelling.ipynb)
 
 ## Data Visualisation
 
