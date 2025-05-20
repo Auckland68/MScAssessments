@@ -6,6 +6,7 @@ This repository contains the code and reports from completed assessments and ind
 ## Inroduction to Data Science
 A comparison of small and large charities (report examining data science techniques used by the BBC Children in Need Appeal and the Trussell Food Bank
 [Charity Comparison Report](https://github.com/Auckland68/MScAssessments/blob/main/A%20Comparison%20of%20Small%20and%20Large%20Charity%20Datasets.pdf)
+
 Powerpoint slides for the charity comparison report
 [Charity Comparison Presentation](https://github.com/Auckland68/MScAssessments/blob/main/Charity%20Report%20Powerpoint%20Slides.pdf)
 
