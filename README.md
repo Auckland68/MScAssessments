@@ -10,7 +10,7 @@ A comparison of small and large charities (report examining data science techniq
 Powerpoint slides for the charity comparison report
 [Charity Comparison Presentation](https://github.com/Auckland68/MScAssessments/blob/main/Charity%20Report%20Powerpoint%20Slides.pdf)
 
-# Data Analysis
+## Data Analysis
 A statistical case study using the Saratoga house price data to construct a multiple linear regression model using Statsmodels
 [House Price Linear Model Report](https://github.com/Auckland68/MScAssessments/blob/main/CASE%20STUDY%20Saratoga%20House%20Prices%20Regression.pdf)
 [House Price Linear Model Jupyter Notebook](https://github.com/Auckland68/MScAssessments/blob/main/HousingPricesCaseStudy.ipynb)
